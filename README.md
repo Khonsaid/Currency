@@ -1,4 +1,4 @@
-📱 Currency Converter App
+## 📱 Currency Converter App
 Welcome to Currency Converter App – a powerful and user-friendly currency exchange application that allows you to convert over 40 world currencies into Uzbekistani Som (UZS). 💱✨
 
 ---
